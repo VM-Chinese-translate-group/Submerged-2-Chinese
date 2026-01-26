@@ -693,7 +693,7 @@
 				id: "11E5C262ECC78D7B"
 				item: {
 					components: {
-						"minecraft:custom_name": "\"Do Not Open\""
+						"minecraft:custom_name": "“不要打开”"
 					}
 					count: 1
 					id: "iceandfire:ghost_chest"

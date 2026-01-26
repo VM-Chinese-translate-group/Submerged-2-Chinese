@@ -23,7 +23,7 @@
 	chapter.689A7DABCF9A14E0.title: "Star Forge"
 	chapter.6E9731F1F8B73F6E.title: "Totemic Gravel"
 	chapter.713B01C02D31073C.title: "CC IV"
-	chapter.7146FFDA00A9C873.title: "Basics"
+	chapter.7146FFDA00A9C873.title: "基础"
 	chapter.720357CCE1FC83FD.title: "Totemic"
 	chapter.7243EC6077298F8D.title: "Bubbles"
 	chapter.7E591E99954B9956.title: "Captured"
@@ -55,12 +55,12 @@
 	quest.02379CAA0CE6DE40.title: "Snowballs"
 	quest.02503953C66AF804.quest_desc: ["A very nice paxel"]
 	quest.026E0CF5357A1E51.quest_desc: ["Made inside the &lInscriber&r"]
-	quest.027CE0501A8D8201.quest_desc: ["Crafted from &lTerracotta Rocks&r"]
-	quest.027CE0501A8D8201.title: "Terracotta"
-	quest.02B2B6A5A8D10FF7.quest_desc: ["A simple &lBucket&r"]
+	quest.027CE0501A8D8201.quest_desc: ["通过&l陶瓦碎片&r合成获得。"]
+	quest.027CE0501A8D8201.title: "陶瓦"
+	quest.02B2B6A5A8D10FF7.quest_desc: ["简易&l桶&r"]
 	quest.02DAF45DC4D31EA4.quest_desc: ["&l8 Dyes&r and a &lPrime Ingot&r"]
-	quest.02EF5A87EA1F012A.quest_desc: ["From &lLogs&r"]
-	quest.02EF5A87EA1F012A.title: "Colored Planks"
+	quest.02EF5A87EA1F012A.quest_desc: ["由&l原木&r制成"]
+	quest.02EF5A87EA1F012A.title: "染色木板"
 	quest.02F116EBFE4FD4B4.quest_desc: ["Made inside the &lStrainer&r"]
 	quest.02FBA5F06407D4D4.quest_desc: ["Crafted &lOre Pieces&r"]
 	quest.0331F94A8DE5BF76.quest_desc: ["Use a &lBottle and Cork&r to obtain &lBottled Sunlight&r"]
@@ -170,10 +170,10 @@
 	quest.10E23E6481414E79.quest_desc: ["Can be used to craft the &lTime In A Bottle&r"]
 	quest.118B3A02993C9272.quest_desc: ["An &lUltimate Storage Compoment&r"]
 	quest.11A1ACC619FDAED8.quest_desc: ["Ahhhhh"]
-	quest.11D2CCBE4E5C471D.quest_desc: ["&lTerracotta&r can be punched to be broken into &lTerracotta Rocks&r. "]
-	quest.11D2CCBE4E5C471D.title: "Terracotta Rocks"
-	quest.11D5227DEC624C0B.quest_desc: ["Collected with &lShears&r"]
-	quest.11D5227DEC624C0B.title: "Colored Leaves"
+	quest.11D2CCBE4E5C471D.quest_desc: ["&l陶瓦碎片&r可由空手打碎&l陶瓦&r得到。"]
+	quest.11D2CCBE4E5C471D.title: "陶瓦碎片"
+	quest.11D5227DEC624C0B.quest_desc: ["使用&l剪刀&r收集"]
+	quest.11D5227DEC624C0B.title: "染色树叶"
 	quest.121B74AB42FF6E61.quest_desc: ["Made inside the &lStrainer&r"]
 	quest.121DF060CBAA0DE2.quest_desc: ["Made inside the &lMetallurgic Infuser&r"]
 	quest.1250A2E0284B610A.quest_desc: ["The &lMixer&r allows for&l Molten materials&r to be mixed. The &lSimple Controller&r auto pushes into adjacent &lMixers&r"]
@@ -199,7 +199,7 @@
 	quest.14E072AD06ED8A7C.quest_desc: ["Injects items with &lChemicals&r "]
 	quest.14F1C63440E822D9.quest_desc: ["Made with &lSynthesized Nano&r or &lEnchanting Apparatus&r"]
 	quest.158641ADBB04096F.quest_desc: ["Crafted from &lDirt Piles &rfrom a &lCrate&r"]
-	quest.158641ADBB04096F.title: "Colored Dirt"
+	quest.158641ADBB04096F.title: "染色泥土"
 	quest.15A2CEE0B41AA0C6.quest_desc: ["&lLasers&r need to be fired into bases to produce resources"]
 	quest.15E0192D10A8449B.quest_desc: ["Routers can be used to move &lItems, Fluids, Energy, Chemicals, Souls and Source&r"]
 	quest.15F04539C2CE5186.quest_desc: ["Made inside the &lDragon Forge&r. Makes cool &lTools&r"]
@@ -607,7 +607,7 @@
 	quest.4C15A7ABD171F566.quest_desc: ["&lControlling&r your drawers"]
 	quest.4C2D89C661588B24.quest_desc: ["Replicates chemicals using &lUU Matter&r"]
 	quest.4C741BBDCDB328CB.quest_desc: ["Drops from &lLeaves&r. Can also be obtained through the &lStrainer&r from &lLeaves&r"]
-	quest.4C741BBDCDB328CB.title: "Colored Apples"
+	quest.4C741BBDCDB328CB.title: "染色苹果"
 	quest.4CADCE6BECDFD4C6.quest_desc: ["A belt with a mix of different machine can be use in Sequenced Crafting, items must go through each stage to craft the final item"]
 	quest.4CADCE6BECDFD4C6.title: "Sequenced Crafting"
 	quest.4CB1A8B1447EE934.quest_desc: ["Can be used to make the &lInscriber&r faster"]
@@ -706,7 +706,7 @@
 	quest.57DD8F321E53526F.quest_desc: ["Simple &lFluid Transport&r"]
 	quest.57DF2A7FC2115CBC.quest_desc: ["The &lBreeding Upgrade&r allows the &lTank Controller&r to do &lBreeding Recipes&r. This upgrade prevents the &lTank&r from create &lCaviar&r when inside!"]
 	quest.57EA71B3C8946BFD.quest_desc: ["From a &lSupply Crate&r"]
-	quest.57EA71B3C8946BFD.title: "Colored Sapling"
+	quest.57EA71B3C8946BFD.title: "染色树苗"
 	quest.57F452F179109301.quest_desc: [
 		"When &lResource Fish&r are inside the area of a&l Resource Fish Tank&r these &lFish&r will produce &lCaviar&r."
 		""
@@ -726,8 +726,8 @@
 	quest.5940F59F6ECC844D.quest_desc: ["Buying those blocks"]
 	quest.599BFD5136B2823B.quest_desc: ["Buying and Selling Capacitors "]
 	quest.5A5C469E575BEA43.quest_desc: ["Another new &lInstrument&r"]
-	quest.5AB9533D848E1D60.quest_desc: ["Wool can be crafted from &lString&r"]
-	quest.5AB9533D848E1D60.title: "Wool"
+	quest.5AB9533D848E1D60.quest_desc: ["羊毛可通过&l线&r合成"]
+	quest.5AB9533D848E1D60.title: "羊毛"
 	quest.5ACFB2D2ACB355B7.quest_desc: [
 		"&lSubmerged 2 &ralso contains some optional &lResource Packs&r found in the &lPause Menu&r -> Options -> &lResource Packs&r"
 		""
@@ -776,7 +776,7 @@
 	quest.5E75863DE9827559.quest_subtitle: "WIP RECIPES"
 	quest.5E8C844ED9D1B309.quest_desc: ["A simple &lFurnace&r"]
 	quest.5EA10BA03219C901.quest_desc: ["Bigger Crafting"]
-	quest.5EA10BA03219C901.title: "Colored Crafting Table"
+	quest.5EA10BA03219C901.title: "染色工作台"
 	quest.5EDD763909EE0A92.quest_desc: ["&lLithium Dust&r can be created in the &lSolidifier&r from &lLiquid Lithium&r"]
 	quest.5EEB852E9079D891.quest_desc: ["Allows the &lSolidifier&r to create &lKeys&r"]
 	quest.5F3EF864CF6D33A7.quest_desc: ["Buying those &lFlares,&r give more color options"]
@@ -1066,7 +1066,7 @@
 	task.05771BD55E54243D.title: "Suquenced Crafting"
 	task.06DFA782028321F9.title: "Any #iceandfire:scales/dragon/lightning"
 	task.07AC1C52482D8EE3.title: "water purifiyer"
-	task.084D68B83261F841.title: "Any #minecraft:wool"
+	task.084D68B83261F841.title: "任何 #minecraft:wool"
 	task.086637DC27E85E89.title: "Charging"
 	task.08F3C2ECE595AAE4.title: "Any #submerged:resources/solclipsium"
 	task.099E4AB08145DA19.title: "Nuclear Waste"
@@ -1075,7 +1075,7 @@
 	task.0C73FBFA6C3A200A.title: "Final Reward"
 	task.0C912172E2017A45.title: "Any #submerged:resources/iron"
 	task.0CDF2A334D526438.title: "Chapter II"
-	task.0CE17CA550679354.title: "Any #submerged:terracotta_rocks"
+	task.0CE17CA550679354.title: "任何 #submerged:terracotta_rocks"
 	task.0D58F263F8EACF72.title: "Reward II"
 	task.0F9031E7157AA518.title: "Warden Tears"
 	task.0F905D9D1C7FC65F.title: "Any #minecraft:planks"
@@ -1083,7 +1083,7 @@
 	task.100D79E08BFA9DD0.title: "Any #submerged:colored_logs"
 	task.105AA2A9EFDA67D9.title: "Any #submerged:keys/pressure_chamber"
 	task.106A6920646E62BC.title: "Any #comforts:hammocks"
-	task.10C7BAF3015071AA.title: "Any #submerged:colored_crafting_tables"
+	task.10C7BAF3015071AA.title: "任何 #submerged:colored_crafting_tables"
 	task.1214BA696CADD77E.title: "Any #minecraft:leaves"
 	task.138872C7733EB8E2.title: "Chapter Challenges"
 	task.14093A3069C01F2E.title: "Toxic Air"
@@ -1102,7 +1102,7 @@
 	task.203F9BABE6DA2782.title: "Any Ideas"
 	task.217F04BD3FC0ED75.title: "Any #submerged:resources/lapis"
 	task.2295084ED3F8F4EB.title: "Any #submerged:resources/iridium"
-	task.2663BC3B474B8A09.title: "Any #submerged:colored_leaves"
+	task.2663BC3B474B8A09.title: "任何 #submerged:colored_leaves"
 	task.268BA100465AE6F3.title: "Any #submerged:resources/zinc"
 	task.28420D0AE447E888.title: "Any #submerged:keys/standard"
 	task.2ADF945CFA667657.title: "Chilly Mobs"
@@ -1116,7 +1116,7 @@
 	task.32391B83B3310766.title: "Hmm"
 	task.326FC48E2D81D130.title: "Final Reward"
 	task.330769785AE3D0B5.title: "Don't Break!"
-	task.335C4FB54288E61C.title: "Any #submerged:colored_dirt"
+	task.335C4FB54288E61C.title: "任何 #submerged:colored_dirt"
 	task.34532F887D0738F3.title: "Molten Star"
 	task.34DA1A0FFDEA9C90.title: "Any #minecraft:beds"
 	task.3656C9C8BBFFC1D5.title: "Vanilarite"
@@ -1137,7 +1137,7 @@
 	task.4723A9AF61848794.title: "Chapter III"
 	task.47B08AF2D35B9CB7.title: "Instruments"
 	task.493B962D80528AB0.title: "Any #submerged:lightning_dragon_eggs"
-	task.4B4094BCB854E74C.title: "Any #submerged:colored_saplings"
+	task.4B4094BCB854E74C.title: "任何 #submerged:colored_saplings"
 	task.4B9007842B48EFFA.title: "Ceremonies"
 	task.4C0CAE2898C3F180.title: "Dragon's Breath"
 	task.4C61233862ECCC91.title: "Use The Source"
@@ -1170,13 +1170,13 @@
 	task.65F941501C47497C.title: "Any #submerged:resources/nickel"
 	task.66CBC605A94596AD.title: "Reward IV"
 	task.66EE364285E590B2.title: "Reward I"
-	task.6806F556BF524339.title: "Any #submerged:colored_apples"
+	task.6806F556BF524339.title: "任何 #submerged:colored_apples"
 	task.6890BE4D87CCDCA0.title: "Shells"
 	task.69BF8F514CD47F08.title: "Resource Packs"
 	task.6B6C444F69AFD2D8.title: "Air purifiyer"
 	task.6C77B779FDFFA39A.title: "Reward III"
 	task.6C8874050F9D2D14.title: "R"
-	task.6D5C3E6B282D3A4B.title: "Any #minecraft:terracotta"
+	task.6D5C3E6B282D3A4B.title: "任意 #minecraft:terracotta"
 	task.6D65102B9940DA72.title: "Any #submerged:keys/big"
 	task.6E034D5522B0F963.title: "Totem Base"
 	task.6E17B02A23135B35.title: "Dragon Forge"
@@ -1194,6 +1194,6 @@
 	task.7B44A274BDDA924A.title: "Trial Spheres"
 	task.7D1158A249E82F29.title: "Shaders"
 	task.7D891F7F6E1B417C.title: "Chapter II"
-	task.7ED628435CE48830.title: "Any #submerged:colored_planks"
+	task.7ED628435CE48830.title: "任何  #submerged:colored_planks"
 	task.7EF6A0EA559008A3.title: "Any #submerged:resources/tin"
 }
