@@ -50,10 +50,7 @@
 				consume_items: true
 				count: 64L
 				id: "02FBA27F747E9324"
-				item: {
-					count: 1
-					id: "minecraft:lapis_lazuli"
-				}
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -75,10 +72,7 @@
 				consume_items: true
 				count: 64L
 				id: "2FC0E6BA653DD94E"
-				item: {
-					count: 1
-					id: "submerged:totemic_infused_gravel"
-				}
+				item: { count: 1, id: "submerged:totemic_infused_gravel" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -101,7 +95,7 @@
 						"casting:equipment_level": 3
 						"casting:fortune": 5
 						"casting:unbreaking": 3
-						"minecraft:custom_name": "\"Paxel of Luck\""
+						"minecraft:custom_name": "\"Paxel of Luck\""
 					}
 					count: 1
 					id: "mekanismtools:lapis_lazuli_paxel"
@@ -242,10 +236,7 @@
 				consume_items: true
 				count: 32L
 				id: "2D1DE6FD08AA47BA"
-				item: {
-					count: 1
-					id: "minecraft:amethyst_shard"
-				}
+				item: { count: 1, id: "minecraft:amethyst_shard" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -310,10 +301,7 @@
 				consume_items: true
 				count: 32L
 				id: "1B49377BBC8C21AE"
-				item: {
-					count: 1
-					id: "minecraft:netherrack"
-				}
+				item: { count: 1, id: "minecraft:netherrack" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -379,10 +367,7 @@
 				consume_items: true
 				count: 16L
 				id: "07C550E3A27646E2"
-				item: {
-					count: 1
-					id: "minecraft:glowstone"
-				}
+				item: { count: 1, id: "minecraft:glowstone" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -408,10 +393,7 @@
 				consume_items: true
 				count: 256L
 				id: "21987DA3DFC2870D"
-				item: {
-					count: 1
-					id: "minecraft:snowball"
-				}
+				item: { count: 1, id: "minecraft:snowball" }
 				type: "item"
 			}]
 			x: 0.5d

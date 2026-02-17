@@ -4,7 +4,7 @@
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
 | :------------- | :--------- | :----------------- | :----------- |
-| [链接](https://www.curseforge.com/minecraft/modpacks/submerged-2) | NeoForge | 1.21.1 B8.3 | 翻译中       |
+| [链接](https://www.curseforge.com/minecraft/modpacks/submerged-2) | NeoForge | 1.21.1 B9.0 | 翻译中       |
 
 ### 📌 汉化相关
 

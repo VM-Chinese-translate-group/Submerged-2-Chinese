@@ -24,13 +24,7 @@
 			}]
 			tasks: [{
 				id: "0CE17CA550679354"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:terracotta_rocks)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:terracotta_rocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -49,13 +43,7 @@
 			}]
 			tasks: [{
 				id: "6D5C3E6B282D3A4B"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:terracotta)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:terracotta)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -74,13 +62,7 @@
 			}]
 			tasks: [{
 				id: "335C4FB54288E61C"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_dirt)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_dirt)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -99,13 +81,7 @@
 			}]
 			tasks: [{
 				id: "4B4094BCB854E74C"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_saplings)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_saplings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -0.5d
@@ -127,13 +103,7 @@
 			}]
 			tasks: [{
 				id: "100D79E08BFA9DD0"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_logs)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -152,13 +122,7 @@
 			}]
 			tasks: [{
 				id: "7ED628435CE48830"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_planks)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_planks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -177,13 +141,7 @@
 			}]
 			tasks: [{
 				id: "10C7BAF3015071AA"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_crafting_tables)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_crafting_tables)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -202,10 +160,7 @@
 			}]
 			tasks: [{
 				id: "2E0359F68B0039C3"
-				item: {
-					count: 1
-					id: "opolisutilities:crook"
-				}
+				item: { count: 1, id: "opolisutilities:crook" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -224,10 +179,7 @@
 			}]
 			tasks: [{
 				id: "2AD3BF948183423C"
-				item: {
-					count: 1
-					id: "opolisutilities:wooden_shears"
-				}
+				item: { count: 1, id: "opolisutilities:wooden_shears" }
 				type: "item"
 			}]
 			x: -0.5d
@@ -246,13 +198,7 @@
 			}]
 			tasks: [{
 				id: "2663BC3B474B8A09"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_leaves)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_leaves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -0.5d
@@ -271,10 +217,7 @@
 			}]
 			tasks: [{
 				id: "17F691BCF572BAA2"
-				item: {
-					count: 1
-					id: "strainers:wooden_mesh"
-				}
+				item: { count: 1, id: "strainers:wooden_mesh" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -297,10 +240,7 @@
 			}]
 			tasks: [{
 				id: "25F09F1FC4517CEC"
-				item: {
-					count: 1
-					id: "strainers:wooden_strainer"
-				}
+				item: { count: 1, id: "strainers:wooden_strainer" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -319,10 +259,7 @@
 			}]
 			tasks: [{
 				id: "7D2613A4A496D744"
-				item: {
-					count: 1
-					id: "ceramicbucket:ceramic_bucket"
-				}
+				item: { count: 1, id: "ceramicbucket:ceramic_bucket" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -342,13 +279,7 @@
 			}]
 			tasks: [{
 				id: "6806F556BF524339"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_apples)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(submerged:colored_apples)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -468,10 +399,7 @@
 			}]
 			tasks: [{
 				id: "1E457F38A4AA3A1B"
-				item: {
-					count: 1
-					id: "strainers:stone_pebble"
-				}
+				item: { count: 1, id: "strainers:stone_pebble" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -490,13 +418,7 @@
 			}]
 			tasks: [{
 				id: "40CDD40105466460"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:strings)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:strings)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -0.5d
@@ -515,13 +437,7 @@
 			}]
 			tasks: [{
 				id: "084D68B83261F841"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wool)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wool)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -0.5d
@@ -540,13 +456,7 @@
 			}]
 			tasks: [{
 				id: "34DA1A0FFDEA9C90"
-				item: {
-					components: {
-						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:beds)"
-					}
-					count: 1
-					id: "ftbfiltersystem:smart_filter"
-				}
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -565,10 +475,7 @@
 			}]
 			tasks: [{
 				id: "454BC220A94976A1"
-				item: {
-					count: 1
-					id: "strainers:string_mesh"
-				}
+				item: { count: 1, id: "strainers:string_mesh" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -587,10 +494,7 @@
 			}]
 			tasks: [{
 				id: "2F2CAED6D9C67F67"
-				item: {
-					count: 1
-					id: "strainers:mulch"
-				}
+				item: { count: 1, id: "strainers:mulch" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -609,10 +513,7 @@
 			}]
 			tasks: [{
 				id: "3DB1C5C2827FE127"
-				item: {
-					count: 1
-					id: "submerged:unloaded_flare"
-				}
+				item: { count: 1, id: "submerged:unloaded_flare" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -631,10 +532,7 @@
 			}]
 			tasks: [{
 				id: "11759F9E8DBBB076"
-				item: {
-					count: 1
-					id: "minecraft:wooden_sword"
-				}
+				item: { count: 1, id: "minecraft:wooden_sword" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -654,10 +552,7 @@
 			}]
 			tasks: [{
 				id: "1A5416F2C877D2D6"
-				item: {
-					count: 1
-					id: "strainers:leaf_pile"
-				}
+				item: { count: 1, id: "strainers:leaf_pile" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -677,10 +572,7 @@
 			}]
 			tasks: [{
 				id: "78749BFBEF307706"
-				item: {
-					count: 1
-					id: "minecraft:dirt"
-				}
+				item: { count: 1, id: "minecraft:dirt" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -693,7 +585,7 @@
 				id: "11E5C262ECC78D7B"
 				item: {
 					components: {
-						"minecraft:custom_name": "“不要打开”"
+						"minecraft:custom_name": "\"Do Not Open\""
 					}
 					count: 1
 					id: "iceandfire:ghost_chest"
@@ -702,10 +594,7 @@
 			}]
 			tasks: [{
 				id: "04E49C631E263F52"
-				item: {
-					count: 1
-					id: "minecraft:chest"
-				}
+				item: { count: 1, id: "minecraft:chest" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -724,10 +613,7 @@
 			}]
 			tasks: [{
 				id: "5F29C7FFC2B12533"
-				item: {
-					count: 1
-					id: "woodenhopper:wooden_hopper"
-				}
+				item: { count: 1, id: "woodenhopper:wooden_hopper" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -746,10 +632,7 @@
 			}]
 			tasks: [{
 				id: "59ECE768611F8A7E"
-				item: {
-					count: 1
-					id: "minecraft:composter"
-				}
+				item: { count: 1, id: "minecraft:composter" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -768,10 +651,7 @@
 			}]
 			tasks: [{
 				id: "1CA59E83F311FFAB"
-				item: {
-					count: 1
-					id: "shops:shop"
-				}
+				item: { count: 1, id: "shops:shop" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -809,10 +689,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "573691460AD83332"
-				item: {
-					count: 1
-					id: "strainers:compactor"
-				}
+				item: { count: 1, id: "strainers:compactor" }
 				type: "item"
 			}]
 			x: 0.0d
