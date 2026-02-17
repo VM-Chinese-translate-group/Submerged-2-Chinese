@@ -41,7 +41,7 @@
 						"casting:equipment_experience": 0
 						"casting:equipment_level": 1
 						"casting:excavation": 3
-						"minecraft:custom_name": "\"The Salty Shovel\""
+						"minecraft:custom_name": "\"The Salty Shovel\""
 					}
 					count: 1
 					id: "minecraft:diamond_shovel"
@@ -52,7 +52,10 @@
 				consume_items: true
 				count: 1024L
 				id: "56E8B36A6D776F9F"
-				item: { count: 1, id: "alltheores:salt" }
+				item: {
+					count: 1
+					id: "alltheores:salt"
+				}
 				type: "item"
 			}]
 			x: -3.5d
@@ -73,7 +76,10 @@
 				consume_items: true
 				count: 8L
 				id: "66A18357427D382E"
-				item: { count: 1, id: "submerged:ai_controller" }
+				item: {
+					count: 1
+					id: "submerged:ai_controller"
+				}
 				type: "item"
 			}]
 			x: -3.5d
@@ -140,7 +146,10 @@
 				consume_items: true
 				count: 128L
 				id: "2E52B89A4AA7A810"
-				item: { count: 1, id: "minecraft:sculk" }
+				item: {
+					count: 1
+					id: "minecraft:sculk"
+				}
 				type: "item"
 			}]
 			x: -1.5d
@@ -246,7 +255,10 @@
 				consume_items: true
 				count: 64L
 				id: "7D06CB5F76363783"
-				item: { count: 1, id: "alltheores:osmium_ingot" }
+				item: {
+					count: 1
+					id: "alltheores:osmium_ingot"
+				}
 				type: "item"
 			}]
 			x: -1.5d
@@ -335,7 +347,10 @@
 				consume_items: true
 				count: 16L
 				id: "5FBD30B1F9B9DC01"
-				item: { count: 1, id: "mekmm:uu_matter" }
+				item: {
+					count: 1
+					id: "mekmm:uu_matter"
+				}
 				type: "item"
 			}]
 			x: 1.5d
@@ -356,7 +371,10 @@
 				consume_items: true
 				count: 128L
 				id: "358C86798F5D31FE"
-				item: { count: 1, id: "submerged:toxic_gravel" }
+				item: {
+					count: 1
+					id: "submerged:toxic_gravel"
+				}
 				type: "item"
 			}]
 			x: 1.5d

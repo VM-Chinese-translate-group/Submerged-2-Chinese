@@ -51,7 +51,10 @@
 				consume_items: true
 				count: 16L
 				id: "10DCC42DC7254157"
-				item: { count: 1, id: "pneumaticcraft:plastic" }
+				item: {
+					count: 1
+					id: "pneumaticcraft:plastic"
+				}
 				type: "item"
 			}]
 			x: -8.0d
@@ -77,7 +80,10 @@
 				consume_items: true
 				count: 128L
 				id: "24A76B4A66092A40"
-				item: { count: 1, id: "ae2:silicon" }
+				item: {
+					count: 1
+					id: "ae2:silicon"
+				}
 				type: "item"
 			}]
 			x: -8.0d
@@ -146,7 +152,10 @@
 				consume_items: true
 				count: 64L
 				id: "55F63C0A241B310D"
-				item: { count: 1, id: "refinedstorage:quartz_enriched_iron" }
+				item: {
+					count: 1
+					id: "refinedstorage:quartz_enriched_iron"
+				}
 				type: "item"
 			}]
 			x: -6.0d
@@ -173,7 +182,10 @@
 				consume_items: true
 				count: 2L
 				id: "067556E7CF7FCE9E"
-				item: { count: 1, id: "ae2:cell_component_256k" }
+				item: {
+					count: 1
+					id: "ae2:cell_component_256k"
+				}
 				type: "item"
 			}]
 			x: -5.0d
@@ -288,7 +300,10 @@
 				consume_items: true
 				count: 16L
 				id: "30CFF0ACE199C25D"
-				item: { count: 1, id: "industrialforegoing:pink_slime_ingot" }
+				item: {
+					count: 1
+					id: "industrialforegoing:pink_slime_ingot"
+				}
 				type: "item"
 			}]
 			x: -6.0d
@@ -333,7 +348,10 @@
 				consume_items: true
 				count: 16L
 				id: "7977CED1D9417C83"
-				item: { count: 1, id: "enderio:grains_of_infinity" }
+				item: {
+					count: 1
+					id: "enderio:grains_of_infinity"
+				}
 				type: "item"
 			}]
 			x: -5.0d
@@ -371,7 +389,7 @@
 						"casting:equipment_level": 4
 						"casting:looting": 3
 						"casting:sharpness": 5
-						"minecraft:custom_name": "\"Sword of Justice\""
+						"minecraft:custom_name": "\"Sword of Justice\""
 					}
 					count: 1
 					id: "minecraft:diamond_sword"
