@@ -338,5 +338,6 @@
   "fluid_type.submerged.dragons_breath": "Dragons Breath",
   "fluid_type.submerged.molten_triarchium": "Molten Triarchium",
   "fluid_type.submerged.molten_vanillarite": "Molten Vanillarite",
-  "fluid_type.submerged.liquid_rainbow": "Liquid Rainbow"
+  "fluid_type.submerged.liquid_rainbow": "Liquid Rainbow",
+  "fluid.submerged.liquid_fissile_fuel": "Liquid Fissile Fuel"
 }
