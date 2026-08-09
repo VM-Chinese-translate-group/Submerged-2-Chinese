@@ -2,7 +2,7 @@
   "packId": 1386854,
   "packName": "Submerged 2",
   "versionPattern": "Submerged 2-{version}",
-  "updateMethod": "cursethebeast",
+  "updateMethod": "api",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "attentionList": {
